@@ -10,8 +10,8 @@
     {
         static void Main(string[] args)
         {
-            int z;
-            int x;
+            int x, z;
+
             Distance a1, a2, a3;
             Console.Write("Enter a1- feet: ");
             a1.feet = int.Parse(Console.ReadLine());
